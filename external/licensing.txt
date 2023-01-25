@@ -1,0 +1,8 @@
+Licensing:
+
+#CC0 1.0 Universal License Text
+
+According to the Creative Commons website the CC0 1.0 Universal license text is dedicated to the Public Domain under the CC0.
+
+References: 
+- The webpage "https://creativecommons.org/terms/" (as viewed on January 25, 2023) includes the statement, "CC-Owned Content: Other than the text of Creative Commons licenses, CC0 [...] (all of which are made available under the CC0 Public Domain Dedication)".
